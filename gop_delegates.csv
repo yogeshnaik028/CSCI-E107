@@ -1,4 +1,4 @@
-state,date,delegates,Trump,Cruz,Rubio,Kasich,Carson,type,allocation,status
+state,date,delegates,Trump_delegates,Cruz_delegates,Rubio_delegates,Kasich_delegates,Carson_delegates,type,allocation,status
 IA,February 12/1,30,7,8,7,1,3,Caucus,Proportional,Closed
 NH,February 92/9,23,11,3,2,4,0,Primary,Proportional,Open
 SC,February 202/20,50,50,0,0,0,0,Primary,Winner Take All,Open
