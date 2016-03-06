@@ -1,0 +1,57 @@
+state,date,delegates,Trump,Cruz,Rubio,Kasich,Carson,type,allocation,status
+IA,February 12/1,30,7,8,7,1,3,Caucus,Proportional,Closed
+NH,February 92/9,23,11,3,2,4,0,Primary,Proportional,Open
+SC,February 202/20,50,50,0,0,0,0,Primary,Winner Take All,Open
+NV,February 232/23,30,14,6,7,1,2,Caucus,Proportional,Closed
+AL,March 13/1,50,36,13,1,0,0,Primary,Proportional,Open
+AK,March 13/1,28,11,12,5,0,0,Caucus,Proportional,Closed
+AR,March 13/1,40,16,14,9,0,0,Primary,Proportional,Open
+GA,March 13/1,76,40,18,14,0,0,Primary,Proportional,Open
+MA,March 13/1,42,22,4,8,8,0,Primary,Proportional,Open
+MN,March 13/1,38,8,13,17,0,0,Caucus,Proportional,Open
+OK,March 13/1,43,13,15,12,0,0,Primary,Proportional,Closed
+TN,March 13/1,58,31,15,9,0,0,Primary,Proportional,Open
+TX,March 13/1,155,47,102,3,0,0,Primary,Proportional,Open
+VT,March 13/1,16,6,0,0,6,0,Primary,Proportional,Open
+VA,March 13/1,49,17,8,16,5,3,Primary,Proportional,Open
+CO,March 13/1,37,,,,,,Caucus,Unbound,Closed
+WY,March 13/1,29,,,,,,Caucus,Unbound,Closed
+KS,March 53/5,40,9,24,6,1,0,Caucus,Proportional,Closed
+KY,March 53/5,45,17,15,7,7,0,Caucus,Proportional,Closed
+LA,March 53/5,47,18,18,5,0,0,Primary,Proportional,Closed
+ME,March 53/5,23,9,12,0,2,0,Caucus,Proportional,Closed
+PR,March 63/6,23,,,,,,Primary,Proportional,Open
+HI,March 83/8,19,,,,,,Caucus,Proportional,Closed
+ID,March 83/8,32,,,,,,Primary,Proportional,Closed
+MI,March 83/8,59,,,,,,Primary,Proportional,Closed
+MS,March 83/8,40,,,,,,Primary,Proportional,Open
+GU,March 123/12,9,,,,,,Convention,Unbound,Closed
+DC,March 123/12,19,,,,,,Convention,Proportional,Closed
+FL,March 153/15,99,,,,,,Primary,Winner Take All,Closed
+IL,March 153/15,69,,,,,,Primary,Winner Take All,Open
+MO,March 153/15,52,,,,,,Primary,Winner Take All,Open
+NC,March 153/15,72,,,,,,Primary,Proportional,Open
+MP,March 153/15,9,,,,,,Caucus,Winner Take All,Closed
+OH,March 153/15,66,,,,,,Primary,Winner Take All,Open
+VI,March 193/19,9,,,,,,Caucus,Winner Take All,Open
+AS,March 223/22,9,,,,,,Convention,Unbound,Open
+AZ,March 223/22,58,,,,,,Primary,Winner Take All,Closed
+UT,March 223/22,40,,,,,,Caucus,Proportional,Closed
+ND,April 14/1,28,,,,,,Caucus,Unbound,Closed
+WI,April 54/5,42,,,,,,Primary,Winner Take All,Open
+NY,April 194/19,95,,,,,,Primary,Proportional,Closed
+CT,April 264/26,28,,,,,,Primary,Proportional,Closed
+DE,April 264/26,16,,,,,,Primary,Winner Take All,Closed
+MD,April 264/26,38,,,,,,Primary,Winner Take All,Closed
+PA,April 264/26,71,,,,,,Primary,Winner Take All,Closed
+RI,April 264/26,19,,,,,,Primary,Proportional,Open
+IN,May 35/3,57,,,,,,Primary,Winner Take All,Open
+NE,May 105/10,36,,,,,,Primary,Winner Take All,Closed
+WV,May 105/10,34,,,,,,Primary,Direct Election,Open
+OR,May 175/17,28,,,,,,Primary,Proportional,Closed
+WA,May 245/24,44,,,,,,Primary,Proportional,Closed
+CA,June 76/7,172,,,,,,Primary,Winner Take All,Closed
+MT,June 76/7,27,,,,,,Primary,Winner Take All,Open
+NJ,June 76/7,51,,,,,,Primary,Winner Take All,Open
+NM,June 76/7,24,,,,,,Primary,Proportional,Closed
+SD,June 76/7,29,,,,,,Primary,Winner Take All,Closed
